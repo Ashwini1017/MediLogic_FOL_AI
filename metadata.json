@@ -1,0 +1,5 @@
+{
+  "name": "MediLogic FOL AI",
+  "description": "An advanced medical diagnostic engine using First-Order Logic (FOL), forward/backward chaining, and ranked explanation traces. Handles uncertainty cases like incomplete symptoms, conflicts, and ambiguity.",
+  "requestFramePermissions": []
+}
